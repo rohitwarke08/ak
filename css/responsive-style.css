@@ -13,9 +13,6 @@
         font-size: 18px;
         margin-bottom: 0;
     }
-    h5{
-
-    }
 
     /* Navbar  */
 .header-scrolled{
@@ -58,6 +55,9 @@
     h2{
         font-size: 25px;
     }
+    h5 {
+        font-size: 1rem;
+    }
     p{
         font-size: 13px;
         line-height: 18px;
@@ -67,5 +67,11 @@
     }
     .portfolio_wrapper .card{
         min-height: 500px;
+    }
+    .section-title{
+        font-size: 25px;
+    }
+    .exp-card .title{
+        font-size: 18px;
     }
 }
